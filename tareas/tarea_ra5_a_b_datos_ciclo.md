@@ -12,10 +12,13 @@
 - Dirección: Calle Camino de Mejina, 13
 
 ## 3) Información
--
+- El pedido 25 fue realizado a las 13:30 con 3 productos.
+- El pedido realizó un pedido por un total de 30€.
+- La mayoría de pedidos se realizan al mediodía.
 
 ## 4) Diferencia
--
+- Dato: Es un valor sin contexto ni significado completo.
+- Información: Es el resultado de procesar y organizar datos para que tengan significado.
 
 ## 5) Ciclo del dato
 - Captura:
