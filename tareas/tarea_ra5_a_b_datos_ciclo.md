@@ -21,12 +21,12 @@
 - Información: Es el resultado de procesar y organizar datos para que tengan significado.
 
 ## 5) Ciclo del dato
-- Captura:
-- Almacenamiento:
-- Procesamiento:
-- Análisis:
-- Uso:
-- Eliminación:
+- Captura: El usuario introduce el pedido en la app.
+- Almacenamiento: Los datos se guardan en una base de datos.
+- Procesamiento: Se calculan totales, tiempos y estadísticas.
+- Análisis: Se identifican patrones (horas calientes, productos más vendidos...).
+- Uso: El restaurante toma decisiones (ofertas, horarios...).
+- Eliminación: Se archivan o eliminan datos antiguos según normativa.
 
 ## 6) Aplicación
 - Decisiones:
