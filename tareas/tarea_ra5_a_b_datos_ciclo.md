@@ -30,10 +30,23 @@
 
 ## 6) Aplicación
 - Decisiones:
+
+  Ajustar horarios del personal.
+  Ofrecer descuentos en horas de baja demanda.
+  Mejorar productos más vendidos.
+  
 - Valor:
+  
+  Transformar datos en información permite entender el negocio, optimizar recursos y mejorar la toma de decisiones.
 
 ## 7) Tabla
-| Dato | Información |
+
+| Dato           | Información                                      |
+|----------------|--------------------------------------------------|
+| 12:45          | Hora en la que se realizó el pedido              |
+| 3              | Cantidad de productos en el pedido               |
+| 9.99€          | Precio unitario del producto                     |
+| Calle Mayor 10 | Dirección de entrega del cliente                 |
 
 ## 8) Diagrama
 
