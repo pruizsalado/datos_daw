@@ -1,11 +1,15 @@
 # Práctica RA5 · a+b — Datos e información
 
 ## 1) Caso
-- Sistema:
-- Contexto:
+- Sistema: Aplicación de pedidos de comida online.
+- Contexto: Un restaurante utiliza una app para gestionar pedidos, clientes y entregas.
 
 ## 2) Datos
--
+- Número del pedido: 25
+- Hora del pedido: 13:30
+- Cantidad de productos: 3
+- Precio de un producto: 10€
+- Dirección: Calle Camino de Mejina, 13
 
 ## 3) Información
 -
