@@ -50,6 +50,22 @@
 
 ## 8) Diagrama
 
+```
+
+Usuario
+  ↓
+App
+  ↓
+Base de datos
+  ↓
+Procesamiento
+  ↓
+Análisis
+  ↓
+Decisión
+
+```
+
 ## 9) Problemas
 - Problema 1:
 - Solución 1:
