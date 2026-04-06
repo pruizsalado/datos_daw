@@ -67,10 +67,10 @@ Decisión
 ```
 
 ## 9) Problemas
-- Problema 1:
-- Solución 1:
-- Problema 2:
-- Solución 2:
+- Problema 1: Datos erróneos.
+- Solución 1: Validación automática de datos en la app.
+- Problema 2: Datos incompletos.
+- Solución 2: Campos obligatorios y limpieza de datos.
 
 ## 10) Fuente
-- Enlace:
+- Enlace: https://www.oecd.org/data/
