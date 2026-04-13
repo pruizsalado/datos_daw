@@ -18,11 +18,11 @@
 -Datos masivos → Procesamiento (limpieza y organización) → Análisis (detección de patrones) → Modelo ML/DL (entrenamiento) → IA (integración del modelo) → Decisión (recomendación de contenido)
 
 ## 5) 5V del Big Data
-- Volumen:
-- Velocidad:
-- Variedad:
-- Veracidad:
-- Valor:
+- Volumen: Millones de datos de usuarios (visualizaciones, clics, valoraciones).
+- Velocidad: Datos generados en tiempo real mientras los usuarios usan la plataforma.
+- Variedad: Datos de distintos tipos (texto, historial, tiempo de reproducción, preferencias).
+- Veracidad: Necesidad de datos fiables (evitar datos incorrectos o incompletos).
+- Valor: Permite mejorar la experiencia del usuario y aumentar el tiempo de uso de la plataforma.
 
 ## 6) Ejemplo aplicado
 - Datos:
