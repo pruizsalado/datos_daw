@@ -15,7 +15,7 @@
 -Los usuarios generan datos → esos datos se almacenan como Big Data → se analizan para encontrar patrones → se usan para entrenar modelos de Machine Learning/Deep Learning → estos modelos forman parte de un sistema de IA → la IA genera recomendaciones personalizadas (decisiones).
 
 ## 4) Pipeline
--
+-Datos masivos → Procesamiento (limpieza y organización) → Análisis (detección de patrones) → Modelo ML/DL (entrenamiento) → IA (integración del modelo) → Decisión (recomendación de contenido)
 
 ## 5) 5V del Big Data
 - Volumen:
