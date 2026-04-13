@@ -5,11 +5,11 @@
 - Contexto: Un servicio de streaming quiere recomendar contenido personalizado a cada usuario según sus gustos y comportamiento.
 
 ## 2) Conceptos
-- Big Data:
-- Análisis de datos:
-- Machine Learning:
-- Deep Learning:
-- IA:
+- Big Data: Conjunto de grandes volúmenes de datos generados por los usuarios (visualizaciones, búsquedas, valoraciones, tiempo de reproducción, etc.).
+- Análisis de datos: Proceso de estudiar esos datos para encontrar patrones de comportamiento y preferencias.
+- Machine Learning: Algoritmos que aprenden de los datos para predecir qué contenido le gustará a cada usuario.
+- Deep Learning: Uso de redes neuronales para detectar patrones complejos en el comportamiento del usuario.
+- IA: Sistema global que utiliza ML/DL para tomar decisiones automáticas, como recomendar películas.
 
 ## 3) Relación
 -
