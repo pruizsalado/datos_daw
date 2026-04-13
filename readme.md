@@ -1,8 +1,8 @@
 # Práctica RA5 · c+d — Big Data e IA
 
 ## 1) Caso
-- Sistema:
-- Contexto:
+- Sistema: Plataforma de recomendación de películas (tipo Netflix)
+- Contexto: Un servicio de streaming quiere recomendar contenido personalizado a cada usuario según sus gustos y comportamiento.
 
 ## 2) Conceptos
 - Big Data:
