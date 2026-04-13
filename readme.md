@@ -25,10 +25,10 @@
 - Valor: Permite mejorar la experiencia del usuario y aumentar el tiempo de uso de la plataforma.
 
 ## 6) Ejemplo aplicado
-- Datos:
-- Análisis:
-- Modelo:
-- Decisión:
+- Datos: Historial de películas vistas, valoraciones, búsquedas.
+- Análisis: Identificación de géneros favoritos y hábitos de consumo.
+- Modelo: Algoritmo de recomendación basado en Machine Learning.
+- Decisión: Mostrar películas recomendadas personalizadas en la pantalla principal.
 
 ## 7) Tabla
 | Concepto | Función |
