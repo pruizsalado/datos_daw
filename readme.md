@@ -45,10 +45,10 @@ Usuario → Datos → Big Data → Análisis → ML/DL → IA → Decisión
 ```
 
 ## 9) Problemas
-- Problema 1:
-- Solución 1:
-- Problema 2:
-- Solución 2:
+- Problema 1: Datos incorrectos o incompletos 
+- Solución 1: Limpieza y validación de datos
+- Problema 2: Sesgo en los datos
+- Solución 2: Uso de datos diversos y revisión de los modelos
 
 ## 10) Fuente
-- Enlace:
+- Enlace: https://www.ibm.com/topics/big-data
