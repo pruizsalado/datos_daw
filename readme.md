@@ -12,7 +12,7 @@
 - IA: Sistema global que utiliza ML/DL para tomar decisiones automáticas, como recomendar películas.
 
 ## 3) Relación
--
+-Los usuarios generan datos → esos datos se almacenan como Big Data → se analizan para encontrar patrones → se usan para entrenar modelos de Machine Learning/Deep Learning → estos modelos forman parte de un sistema de IA → la IA genera recomendaciones personalizadas (decisiones).
 
 ## 4) Pipeline
 -
