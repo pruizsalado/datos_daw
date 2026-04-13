@@ -32,6 +32,11 @@
 
 ## 7) Tabla
 | Concepto | Función |
+|----------|--------|
+| Big Data | Almacenar grandes cantidades de datos |
+| Análisis | Extraer información útil de los datos |
+| ML/DL    | Aprender patrones y hacer predicciones |
+| IA       | Tomar decisiones automáticas |
 
 ## 8) Diagrama
 
